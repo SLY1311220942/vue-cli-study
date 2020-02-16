@@ -6,7 +6,8 @@
       <!-- <router-link to="/test">Test</router-link> | -->
       <router-link to="/demo1">Demo1</router-link> |
       <router-link to="/demo2">Demo2</router-link> |
-      <router-link to="/demo3">Demo3</router-link>
+      <router-link to="/demo3">Demo3</router-link> |
+      <router-link to="/demo4">Demo4</router-link>
     </div>
     <router-view/>
   </div>
