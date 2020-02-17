@@ -10,6 +10,7 @@ export default {
   name: "Demo",
   data() {
     return {};
-  }
+  },
+  methods: {}
 };
 </script>
